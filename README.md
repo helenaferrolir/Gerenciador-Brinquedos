@@ -36,7 +36,7 @@ REQUISITOS NÃO FUNCIONAIS
 
 Os requisitos não funcionais do sistema estão relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenibilidade e tecnologias envolvida, desta forma, temos:
 
-                                                [RNF001] Disponibilidade
+ RNF001] Disponibilidade
 
 O sistema deverá ter total disponibilidade 24h de Domingo a Domingo.
 PRIORIDADE:	() Essencial;		(X) Importante;		( ) Desejável.
